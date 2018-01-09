@@ -10,6 +10,7 @@
     "dev-server": "webpack-dev-server"
   },
   "dependencies": {
+    "alphavantage": "^1.1.0",
     "babel-cli": "6.24.1",
     "babel-core": "6.25.0",
     "babel-loader": "7.1.1",
@@ -19,13 +20,17 @@
     "babel-preset-react": "6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "chart.js": "^2.7.1",
+    "css-loader": "^0.28.8",
     "dotenv": "^4.0.0",
     "live-server": "^1.2.0",
+    "node-sass": "^4.7.2",
     "object.map": "^1.0.1",
     "react": "15.6.1",
     "react-chartjs-2": "^2.6.4",
     "react-dom": "15.6.1",
     "react-modal": "2.2.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.19.1",
     "validator": "8.0.0",
     "webpack": "3.1.0",
     "webpack-dev-server": "2.5.1"
