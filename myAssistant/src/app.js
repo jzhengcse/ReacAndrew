@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import RandomNum from './components/RandomNum';
-import RandomItem from './components/RandomItem';
+import Assistant from './components/Assistant';
 
-const items=[
-  "Get Out",
-  "The Big Sick",
-  "Dunkirk"
-]
 
-ReactDOM.render(<RandomItem items={items}/>, document.getElementById('app'));
+
+
+// const props={
+//   name:"GBTC",
+//   num: 5
+// }
+ReactDOM.render(<Assistant />, document.getElementById('app'));
+
+// ReactDOM.render(<RandomNum max={32}/>, document.getElementById('app'));
