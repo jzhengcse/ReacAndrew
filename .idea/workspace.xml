@@ -2,14 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65c48f07-2329-4c35-be38-d468a9ce9756" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assistant/src/components/WorkBreak.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/r-08-04-refactor/src/styles/styles.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/components/Action.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/components/AddOption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/components/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/components/IndecisionApp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/components/Option.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/components/Options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/build-it-visible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/counter-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/es6-arrow-function-2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/es6-arrow-function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/es6-classes-1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/es6-let-const.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/src/playground/jsx-indecision.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-07-10-sourcemaps/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/public/bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/public/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/components/Action.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/components/AddOption.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/components/Header.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/components/IndecisionApp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/components/Option.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/components/OptionModal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/components/Options.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/build-it-visible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/counter-example.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/es6-arrow-function-2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/es6-arrow-function.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/es6-classes-1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/es6-let-const.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/playground/jsx-indecision.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/styles/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/webpack.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/r-08-04-refactor/yarn.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/package.json" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assistant/package.json" afterPath="$PROJECT_DIR$/Assistant/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assistant/src/components/Assistant.js" afterPath="$PROJECT_DIR$/Assistant/src/components/Assistant.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assistant/yarn.lock" afterPath="$PROJECT_DIR$/Assistant/yarn.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/r-08-04-refactor/src/app.js" afterPath="$PROJECT_DIR$/r-08-04-refactor/src/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/r-08-04-refactor/webpack.config.js" afterPath="$PROJECT_DIR$/r-08-04-refactor/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,40 +62,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WorkBreak.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assistant/src/components/WorkBreak.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="51" column="25" lean-forward="false" selection-start-line="51" selection-start-column="25" selection-end-line="51" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stocks.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assistant/src/components/Stocks.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="113" column="56" lean-forward="true" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandomNum.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assistant/src/components/RandomNum.js">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/r-11-03-boilerplate/r-11-03-boilerplate/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -65,11 +72,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndecisionApp.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/r-08-04-refactor/src/components/IndecisionApp.js">
+      <file leaf-file-name="Income.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assistant/src/components/Income.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="47">
-              <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+            <state relative-caret-position="211">
+              <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Assistant.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assistant/src/components/Assistant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GBTCPremium.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assistant/src/components/GBTCPremium.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomItem.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assistant/src/components/RandomItem.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,58 +117,33 @@
       <file leaf-file-name="Stock.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assistant/src/components/Stock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="476">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/r-08-04-refactor/src/app.js">
+      <file leaf-file-name="Stocks.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assistant/src/components/Stocks.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assistant/src/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-1908">
+              <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="40" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#25#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Assistant.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assistant/src/components/Assistant.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assistant/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
-              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -154,6 +168,8 @@
       <find>setState</find>
       <find>console</find>
       <find>workedTime</find>
+      <find>setitem</find>
+      <find>sum</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -194,10 +210,13 @@
         <option value="$PROJECT_DIR$/r-08-04-refactor/src/styles/styles.css" />
         <option value="$PROJECT_DIR$/r-08-04-refactor/webpack.config.js" />
         <option value="$PROJECT_DIR$/r-08-04-refactor/src/app.js" />
-        <option value="$PROJECT_DIR$/Assistant/src/components/Assistant.js" />
         <option value="$PROJECT_DIR$/Assistant/package.json" />
         <option value="$PROJECT_DIR$/Assistant/src/components/WorkBreak.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/r-08-04-refactor/public/test.html" />
+        <option value="$PROJECT_DIR$/Assistant/src/components/asset.js" />
+        <option value="$PROJECT_DIR$/Assistant/src/components/Assistant.js" />
+        <option value="$PROJECT_DIR$/Assistant/src/components/Income.js" />
       </list>
     </option>
   </component>
@@ -209,12 +228,12 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/Assistant/node_modules" />
-    <handled-path value="$PROJECT_DIR$/r-07-10-sourcemaps/node_modules" />
-    <handled-path value="$PROJECT_DIR$/r-08-04-refactor/node_modules" />
+    <handled-path value="$PROJECT_DIR$/r-11-03-boilerplate/r-11-03-boilerplate/node_modules" />
+    <handled-path value="$PROJECT_DIR$/r-11-08-query-string-and-params/node_modules" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="162" />
-    <option name="y" value="271" />
+    <option name="x" value="1964" />
+    <option name="y" value="45" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -244,67 +263,6 @@
               <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
               <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="Assistant" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="Assistant" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="Assistant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="Assistant" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="r-08-04-refactor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="r-08-04-refactor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="r-08-04-refactor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="r-08-04-refactor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="playground" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="r-08-04-refactor" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ReacAndrew" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ReacAndrew" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -318,14 +276,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Jie Zheng\Desktop\ReacAndrew\r-05-13-set-state-object\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jie Zheng\Desktop\ReacAndrew" />
       <recent name="C:\Users\Jie Zheng\Desktop\ReacAndrew\indecision-app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jie Zheng\Desktop\ReacAndrew\r-05-13-set-state-object\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -355,12 +314,12 @@
       <workItem from="1515338401503" duration="13620000" />
       <workItem from="1515435620837" duration="1063000" />
       <workItem from="1515436694082" duration="35784000" />
-      <workItem from="1515512387833" duration="9454000" />
+      <workItem from="1515512387833" duration="19027000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108611000" />
+    <option name="totallyTimeSpent" value="118184000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,8 +331,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.243941" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -381,7 +339,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -413,56 +371,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/myAssistant/node_modules/alphavantage/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myAssistant/node_modules/alphavantage/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="40" lean-forward="false" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myAssistant/yarn.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/r-07-10-sourcemaps/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/r-07-10-sourcemaps/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/r-07-10-sourcemaps/src/components/AddOption.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="26" lean-forward="false" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myAssistant/public/bundle.js" />
-    <entry file="file://$PROJECT_DIR$/r-07-10-sourcemaps/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/r-08-04-refactor/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -565,9 +473,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="227">
           <caret line="57" column="47" lean-forward="false" selection-start-line="57" selection-start-column="15" selection-end-line="57" selection-end-column="47" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -601,9 +507,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="986">
           <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="82" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#26#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -687,26 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant/src/components/Stock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assistant/src/components/RandomNum.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/r-08-04-refactor/src/components/IndecisionApp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="62" column="5" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -724,17 +612,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant/src/components/Assistant.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="20" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -744,16 +622,6 @@
         <state relative-caret-position="177">
           <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assistant/src/components/Stocks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="113" column="56" lean-forward="true" selection-start-line="113" selection-start-column="19" selection-end-line="113" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -770,6 +638,106 @@
         <state relative-caret-position="17">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r-08-04-refactor/src/components/IndecisionApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="56" column="26" lean-forward="false" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r-08-04-refactor/public/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="58" column="17" lean-forward="false" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r-09-11-favicon/r-09-11-favicon/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r-11-03-boilerplate/r-11-03-boilerplate/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant/src/components/RandomItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant/src/components/Stock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant/src/components/Assistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant/src/components/GBTCPremium.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant/src/components/Income.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="29" column="42" lean-forward="false" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/r-09-11-favicon/r-09-11-favicon/src/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assistant/src/components/Stocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1908">
+          <caret line="70" column="0" lean-forward="false" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -4,6 +4,7 @@ import RandomNum from './RandomNum';
 import Stocks from './Stocks';
 import GBTCPremium from './GBTCPremium';
 import WorkBreak from './WorkBreak';
+import Income from './Income'
 
 
 const max=32;
@@ -17,6 +18,7 @@ export default class IndecisionApp extends React.Component {
   render() {
     return (
       <div>
+        <Income />
         <WorkBreak/>
         <Stocks/>
         <GBTCPremium/>
