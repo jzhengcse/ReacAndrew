@@ -52,9 +52,9 @@ export default class Stocks extends React.Component {
         BTC: 0,
         LTC: 0
       },
-      original: 21256.18,
+      original: 20256.18,
       totalAsset: undefined,
-      cash: 2032.21 + 3820 + 403.5,
+      cash: 1032.21 + 3820 + 403.5,
       data: {}
     }
   }
